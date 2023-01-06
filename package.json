@@ -4,7 +4,8 @@
   "description": "My first Mock RESTful API",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Ramanpreet4718/MyAPI/issues"
   },
-  "homepage": "https://github.com/Ramanpreet4718/MyAPI#readme"
+  "homepage": "https://github.com/Ramanpreet4718/MyAPI#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
 }
