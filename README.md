@@ -6,8 +6,9 @@ Hello everyone! Here i made my own Mock API that can be used as a mock server, a
 
 Basically this API holds two types of Data :
 
-1. Medisons and
-2. users
+1. Beauty Bebo Product Data,
+2. Medisons and
+3. users
 
 This data mainly used in development of Medical Store Websites.
 
